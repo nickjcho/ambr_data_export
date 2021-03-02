@@ -1,0 +1,15 @@
+Temperature
+Block temperature
+Stir speed
+pH
+Air flow
+DO
+Volume
+OUR
+CER
+RQ
+Feed#1 volume pumped
+Antifoam volume pumped
+Acid volume pumped
+Base volume pumped
+Volume - sampled

@@ -1,0 +1,18 @@
+{
+    "Temperature" : "Temperature \\( deg C\\)",
+    "Block temperature" : "Block temperature \\(deg C\\)",
+    "Stir speed" : "Stir speed \\(rpm\\)",
+    "pH" : "pH \\(pH\\)",
+    "Air flow" : "Air flow \\(mL per min\\)",
+    "DO" : "DO \\(% air sat\\.\\)",
+    "Volume" : "Volume \\(mL\\)",
+    "OUR" : "OUR \\(mmol per L per h\\)",
+    "CER" : "CER \\(mmol per L per h\\)",
+    "RQ" : "RQ",
+    "Feed#1 volume pumped" : "Feed#1 volume pumped \\(mL\\)",
+    "Antifoam volume pumped" : "Antifoam volume pumped \\(mL\\)",
+    "Acid volume pumped" : "Acid volume pumped \\(mL\\)",
+    "Base volume pumped" : "Base volume pumped \\(mL\\)",
+    "Volume - sampled" : "Volume - sampled \\(mL\\)"
+}
+
