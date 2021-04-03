@@ -1,15 +1,15 @@
-Temperature
-Block temperature
-Stir speed
-pH
-Air flow
-DO
-Volume
-OUR
-CER
+Temperature ( deg C)
+Block temperature ( deg C)
+Stir speed (rpm)
+pH (pH)
+Air flow (mL per min)
+DO (% air sat.)
+Volume (mL)
+OUR (mmol per L per h)
+CER (mmol per L per h)
 RQ
-Feed#1 volume pumped
-Antifoam volume pumped
-Acid volume pumped
-Base volume pumped
-Volume - sampled
+Feed#1 volume pumped (mL)
+Antifoam volume pumped (mL)
+Acid volume pumped (mL)
+Base volume pumped (mL)
+Volume - sampled (mL)
